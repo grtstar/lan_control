@@ -14,10 +14,10 @@
     ./lcm-tunnel &
     exit
 ```
-4. git clone this project to your computer(require Ubuntu and python3 installed)
+4. git clone this project to your computer(You need to have Ubuntu and Python3 installed)
 5. Run lcm-tunnel on your computer
 ```
-    git clone https://github.com/grtstar/lan_contrl
+    git clone https://github.com/grtstar/lan_control
     cd lan_control
     source env.sh
     lcm-tunnel 192.168.0.228 &
